@@ -1,5 +1,4 @@
 const contact = require ('./contact');
-// const argv = require('yargs').argv;
 const { Command } = require('commander');
 const program = new Command();
 program
@@ -12,29 +11,24 @@ program
 program.parse(process.argv);
 
 const argv = program.opts();
-// TODO: refaktor
 async function invokeAction({ action, id, name, email, phone }) {
   switch (action) {
     case 'list':
-      // ...
       const contacts = await contact.listContacts()
       console.table(contacts);
       break;
 
     case 'get':
-      // ... id
       const getContact = await contact.getContactById(id);
       console.table(getContact);
       break;
 
     case 'add':
-      // ... name email phone
       const addContact = await contact.addContact(name, email, phone);
       console.table(addContact);
       break;
 
     case 'remove':
-      // ... id
       const removeContact = await contact.removeContact(id);
       console.table(removeContact)
       break;

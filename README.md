@@ -9,11 +9,7 @@ Technologies:
 ![NODE.JS](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 
 
-![addContact](https://monosnap.com/file/niz3qTcCVNLDCR0giuWrN9OOOCuUIT "add")
-![contactList](https://monosnap.com/file/wTV8hBMWGh39TyTVy9V1xdQe5OfAgl)
-![removeContact](https://monosnap.com/file/MjhB6k7LlUJw58hKjtKrOxR9vFkCyw)
-![getContactById](https://monosnap.com/file/l5ZsQwBGjXK8GqZ2xRD4wxd8dYWO9a)
-
-![Alt text](https://monosnap.com/image/wTV8hBMWGh39TyTVy9V1xdQe5OfAgl)
-
-[img]https://monosnap.com/image/l5ZsQwBGjXK8GqZ2xRD4wxd8dYWO9a[/img]
+![contactList](https://user-images.githubusercontent.com/94519797/197149822-70d385c8-20d6-4c77-a784-73f13a9d1321.jpg)
+![getContactById](https://user-images.githubusercontent.com/94519797/197149883-540d85ff-b8c4-44f5-ba11-13d6c6929eff.jpg)
+![addContact](https://user-images.githubusercontent.com/94519797/197149910-609862a3-04ea-4586-9a2d-c8bc05ec0b0c.jpg)
+![removeContactById](https://user-images.githubusercontent.com/94519797/197149920-5a58d93e-16fb-486f-9dbd-e9052caa55b0.jpg)
